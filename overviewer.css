@@ -166,6 +166,7 @@ div.worldcontrol select {
 }
 
 .leaflet-container .coordbox, .leaflet-container .progress {
+    display: none;
     box-shadow: none;
     font-size: 11px;
     background: rgba(255, 255, 255, 0.7);
