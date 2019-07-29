@@ -36,7 +36,7 @@ var overviewerConfig = {
             "compass": true,
             "mapType": true,
             "overlays": true,
-            "coordsBox": true
+            "coordsBox": false
         }
     },
     "tilesets": [
