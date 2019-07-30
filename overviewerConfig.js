@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1564411091",
+        "cacheTag": "1564449389",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -36,7 +36,7 @@ var overviewerConfig = {
             "compass": true,
             "mapType": true,
             "overlays": true,
-            "coordsBox": false
+            "coordsBox": true
         }
     },
     "tilesets": [
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world",
-            "last_rendertime": 1564410528,
+            "last_rendertime": 1564448792,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
